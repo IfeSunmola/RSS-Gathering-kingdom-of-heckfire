@@ -1,0 +1,158 @@
+# GRASSLANDS
+gold_ruby = 4 47
+gold_bovis = 4 49
+gold_woolliam = 5 47
+gold_chip = 3 50
+gold_ruby_bovis = 3 52
+gold_ruby_woolliam = 4 27
+gold_ruby_chip = 3 12
+gold_bovis_woolliam = 4 29
+gold_bovis_chip = 3 13
+gold_woolliam_chip = 3 37
+=================================================
+ore_ruby = 4 34
+ore_bovis = 4 36
+ore_woolliam = 5 28
+ore_chip = 3 43
+ore_ruby_bovis = 3 43
+ore_ruby_woolliam = 4 16
+ore_ruby_chip = 3 7
+ore_bovis_woolliam = 4 18
+ore_bovis_chip = 3 7
+ore_woolliam_chip = 3 30
+=================================================
+food_ruby = 4 47
+food_bovis = 4 49
+food_woolliam = 5 47
+food_chip = 3 50
+food_ruby_bovis = 3 52
+food_ruby_woolliam = 4 27
+food_ruby_chip = 3 12
+food_bovis_woolliam = 4 29
+food_bovis_chip = 3 13
+food_woolliam_chip = 3 37
+=================================================
+# BADLANDS
+gold_chomper = 3 53
+gold_bertha = 3 49
+gold_thornton = 4 51
+gold_stabigail = 3 40
+gold_chomper_bertha = 3 2
+gold_chomper_thornton = 3 39
+gold_chomper_stabigail = 2 56
+gold_bertha_thornton = 3 35
+gold_bertha_stabigail = 2 54
+gold_thornton_stabigail = 3 27
+gold_chomper_bertha_thornton = 2 53
+gold_chomper_bertha_stabigail = 2 25
+gold_chomper_thornton_stabigail = 2 48
+gold_bertha_thornton_stabigail = 2 45
+=================================================
+ore_chomper = 3 45
+ore_bertha = 3 41
+ore_thornton = 4 38
+ore_stabigail = 3 33
+ore_chomper_bertha = 2 56
+ore_chomper_thornton = 3 31
+ore_chomper_stabigail = 2 51
+ore_bertha_thornton = 3 28
+ore_bertha_stabigail = 2 49
+ore_thornton_stabigail = 3 21
+ore_chomper_bertha_thornton = 2 48
+ore_chomper_bertha_stabigail = 2 22
+ore_chomper_thornton_stabigail = 2 43
+ore_bertha_thornton_stabigail = 2 41
+=================================================
+food_chomper = 3 53
+food_bertha = 3 49
+food_thornton = 4 51
+food_stabigail = 3 40
+food_chomper_bertha = 3 2
+food_chomper_thornton = 3 39
+food_chomper_stabigail = 2 56
+food_bertha_thornton = 3 35
+food_bertha_stabigail = 2 54
+food_thornton_stabigail = 3 27
+food_chomper_bertha_thornton = 2 53
+food_chomper_bertha_stabigail = 2 25
+food_chomper_thornton_stabigail = 2 48
+food_bertha_thornton_stabigail = 2 45
+=================================================
+# SWAMP
+gold_lulu = 3 51
+gold_frank = 4 50
+gold_migo = 4 53
+gold_nos = 5 13
+gold_dart = 5 58
+gold_lulu_frank = 3 13
+gold_lulu_migo = 3 14
+gold_lulu_nos = 3 23
+gold_lulu_dart = 3 41
+gold_frank_migo = 3 54
+gold_frank_nos = 4 7
+gold_frank_dart = 4 34
+gold_migo_nos = 4 8
+gold_migo_dart = 4 36
+gold_nos_dart = 4 54
+=================================================
+ore_lulu = 3 43
+ore_frank = 4 38
+ore_migo = 4 39
+ore_nos = 4 58
+ore_dart = 5 38
+ore_lulu_frank = 3 7
+ore_lulu_migo = 3 8
+ore_lulu_nos = 3 16
+ore_lulu_dart = 3 33
+ore_frank_migo = 3 45
+ore_frank_nos = 3 57
+ore_frank_dart = 4 22
+ore_migo_nos = 3 59
+ore_migo_dart = 4 24
+ore_nos_dart = 4 40
+=================================================
+food_lulu = 3 51
+food_frank = 4 50
+food_migo = 4 53
+food_nos = 5 13
+food_dart = 5 58
+food_lulu_frank = 3 13
+food_lulu_migo = 3 14
+food_lulu_nos = 3 23
+food_lulu_dart = 3 41
+food_frank_migo = 3 54
+food_frank_nos = 4 7
+food_frank_dart = 4 34
+food_migo_nos = 4 8
+food_migo_dart = 4 36
+food_nos_dart = 4 54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gl_gold_raw_time = "6 21"
+gl_ore_raw_time = "5 59"
+gl_food_raw_time = "6 21"
+
+bl_gold_raw_time = "5 17"
+bl_ore_raw_time = "5 2"
+bl_food_raw_time = "5 17"
+
+s_gold_raw_time = "6 27"
+s_ore_raw_time = "6 4"
+s_food_raw_time = "6 27"
