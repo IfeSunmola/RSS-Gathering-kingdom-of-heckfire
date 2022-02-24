@@ -1,4 +1,5 @@
 ======GOLD NODES=====
+gold_no_drags = 6 21
 gold_ruby = 4 47
 gold_bovis = 4 49
 gold_woolliam = 5 47
@@ -10,6 +11,7 @@ gold_bovis_woolliam = 4 29
 gold_bovis_chip = 3 13
 gold_woolliam_chip = 3 37
 ======ORE NODES=====
+ore_no_drags = 5 59
 ore_ruby = 4 34
 ore_bovis = 4 36
 ore_woolliam = 5 28
@@ -21,6 +23,7 @@ ore_bovis_woolliam = 4 18
 ore_bovis_chip = 3 7
 ore_woolliam_chip = 3 30
 ======FOOD NODES=====
+food_no_drags = 6 21
 food_ruby = 4 47
 food_bovis = 4 49
 food_woolliam = 5 47

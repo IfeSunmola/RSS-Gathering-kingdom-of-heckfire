@@ -1,4 +1,5 @@
 ======GOLD NODES=====
+gold_no_drags = 6 27
 gold_lulu = 3 51
 gold_frank = 4 50
 gold_migo = 4 53
@@ -15,6 +16,7 @@ gold_migo_nos = 4 8
 gold_migo_dart = 4 36
 gold_nos_dart = 4 54
 ======ORE NODES=====
+ore_no_drags = 6 4
 ore_lulu = 3 43
 ore_frank = 4 38
 ore_migo = 4 39
@@ -31,6 +33,7 @@ ore_migo_nos = 3 59
 ore_migo_dart = 4 24
 ore_nos_dart = 4 40
 ======FOOD NODES=====
+food_no_drags = 6 27
 food_lulu = 3 51
 food_frank = 4 50
 food_migo = 4 53

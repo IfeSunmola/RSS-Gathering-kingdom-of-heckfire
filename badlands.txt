@@ -1,4 +1,5 @@
 ======GOLD NODES=====
+gold_no_drags = 5 17
 gold_chomper = 3 53
 gold_bertha = 3 49
 gold_thornton = 4 51
@@ -14,6 +15,7 @@ gold_chomper_bertha_stabigail = 2 25
 gold_chomper_thornton_stabigail = 2 48
 gold_bertha_thornton_stabigail = 2 45
 ======ORE NODES=====
+ore_no_drags = 5 2
 ore_chomper = 3 45
 ore_bertha = 3 41
 ore_thornton = 4 38
@@ -29,6 +31,7 @@ ore_chomper_bertha_stabigail = 2 22
 ore_chomper_thornton_stabigail = 2 43
 ore_bertha_thornton_stabigail = 2 41
 ======FOOD NODES=====
+food_no_drags = 5 17
 food_chomper = 3 53
 food_bertha = 3 49
 food_thornton = 4 51
